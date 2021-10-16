@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chetan</h1>
-<h3 style="color: inherit;text-decoration: underline;" align="center">Web Designer & Web Developer, <a href="https://www.instagram.com/javascriptessentials/">Tech Instagrammer</a>, Music, Movies, Gadgets, Iron Man, Batman</h3>
+<h1>Hi 👋, I'm Chetan</h1>
+<h3>Web Designer & Web Developer, <a href="https://www.instagram.com/javascriptessentials/">Tech Instagrammer</a>, Music, Movies, Gadgets, Iron Man, Batman</h3>
 
 - 📝 &nbsp;I regularly write articles on [https://chtn.medium.com](https://chtn.medium.com)
 
